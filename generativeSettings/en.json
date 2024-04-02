@@ -1,0 +1,15 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "Default"
+  },
+  "languageCode": "en",
+  "knowledgeConnectorSettings": {
+    "business": "GAVS",
+    "llmModelSettings": {
+    
+    },
+    "mainLlmConfig": {
+      "configSet": "gemini_pro"
+    }
+  }
+}
