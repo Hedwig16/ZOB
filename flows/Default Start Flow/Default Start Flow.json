@@ -8,7 +8,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Hi, This is EMS-chart-agent how can I help you ? " ]
+          "text": [ "Hi, This is EMS-chart-agent how can I help you ?", "Hi, How can I help you with Emscharts?" ]
         },
         "languageCode": "en"
       } ]
